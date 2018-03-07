@@ -10,6 +10,5 @@ spring:
   data:
     mongodb:
       port: 27017
-      database: springCloud-log
-      
- content: admin   
+      database: springCloud-log  
+content: admin   
