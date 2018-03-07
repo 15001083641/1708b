@@ -12,4 +12,4 @@ spring:
       port: 27017
       database: springCloud-log
       
- content: test   
+ content: admin   
